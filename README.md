@@ -1,0 +1,2 @@
+# Backend_code_for_banking_systems
+This is a backend code using python where instructions are read from the file passed line by line and are executed to give the output for BALANCE command. It uses calls like LOAN, PAYMENT,BALANCE to apply different functionalities.these commands(calls) are passes at beginning of every line of the file, such as  "LOAN IDIDI Dale 5000 1 6", "PAYMENT IDIDI Dale 1000 5", "BALANCE IDIDI Dale 3".
